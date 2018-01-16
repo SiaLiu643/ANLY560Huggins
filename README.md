@@ -1,2 +1,2 @@
 # ANLY560Huggins
-Notes
+This repository contains files for ANLY560
